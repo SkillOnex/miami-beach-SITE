@@ -13,7 +13,7 @@ Site Criado para o servidor de RP do Miami-Beach
 - Menu para funcionalides diversar nesse caso usado para links externos
 
 
-## 🔗 Link preview : https://miami-beach-roleplay.netlify.app
+## 🔗 Link preview : https://skillonex.github.io/miami-beach-SITE/
 
 ## 🔵 Autores
 
